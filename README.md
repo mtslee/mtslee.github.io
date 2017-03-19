@@ -13,7 +13,7 @@ I am currently a senior at the University of California, Davis with a double maj
 
 [STA 141b Assign 4](141b/assignment4+Matthew+Lee/) 
 
-[It's Lit- Young People](ehkhong/sta-141b-proj/Calculated2.py.ipynb)
+[It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
 
 You can use the [editor on GitHub](https://github.com/mtslee/mtslee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
