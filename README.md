@@ -1,6 +1,6 @@
 ## Welcome to my page! 
 
-![Matthew](/linkedinpic.jpg)
+![Matthew](/headshot.jpg)
 
 # Hi everyone!
 My name is Matthew Lee and I want to thank you for taking the time to visit my data science portfolio. Please explore some of the projects I have done during my undergraduate career at the University of California, Davis. 
