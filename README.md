@@ -17,9 +17,12 @@ I am currently a senior at the University of California, Davis with a double maj
 This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. 
 
 [It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
-## STA 141a
+** STA 141a
 
-## Consult Your Community
+
+
+** Consult Your Community | UC Davis**
+I am an Engagement Manager for a non-profit consulting organization here at UC Davis. This is a copy of our final deliverable for our client Smartz Graphics. 
 [Final Deliverable](FINAL_cyc.pdf)
 
 You can use the [editor on GitHub](https://github.com/mtslee/mtslee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
