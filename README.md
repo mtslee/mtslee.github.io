@@ -10,8 +10,10 @@ My name is Matthew Lee and I want to thank you for taking the time to visit my d
 I am currently a senior at the University of California, Davis with a double major in Applied Statistics and Economics. As an avid basketball fan, I have always been fascinated by numbers and statistics. This interest led me to pursue my major where I could learn more about how people incorporate data into decision making. When I graduate, I will be working as a Consultant for Protiviti in San Francisco. 
 
 
+# Explore my work!
 
 [STA 141b Assign 4](141b/assignment4+Matthew+Lee/) 
+This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. 
 
 [It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
 
