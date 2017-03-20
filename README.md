@@ -2,20 +2,25 @@
 
 ![Matthew](/headshot.jpg)
 
+
 # Hi everyone!
 My name is Matthew Lee and I want to thank you for taking the time to visit my data science portfolio. Please explore some of the projects I have done during my undergraduate career at the University of California, Davis. 
 
 
 # About Me
-I am currently a senior at the University of California, Davis with a double major in Applied Statistics and Economics. As an avid basketball fan, I have always been fascinated by numbers and statistics. This interest led me to pursue my major where I could learn more about how people incorporate data into decision making. When I graduate, I will be working as a Consultant for Protiviti in San Francisco. 
+I am currently a senior at the University of California, Davis with a double major in Applied Statistics and Economics. As an avid basketball fan, I have always been fascinated by numbers and statistics. This interest led me to pursue my major where I could learn more about how people incorporate data into decision making. When I graduate, I hope to continue my work in Data Science and Research and potentially work for the NBA. 
 
 
 # Explore my work!
-
-[STA 141b Assign 4](141b/assignment4+Matthew+Lee (1)/) 
+## STA 141b
+[USDA Fresh Foods](141b/assignment4+Matthew+Lee (1)/) 
 This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. 
 
 [It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
+## STA 141a
+
+## Consult Your Community
+[Final Deliverable](FINAL .pptx)
 
 You can use the [editor on GitHub](https://github.com/mtslee/mtslee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
