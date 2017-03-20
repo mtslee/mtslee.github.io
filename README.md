@@ -20,7 +20,7 @@ This was an assignment for my data science course where I used the USDA API key 
 ## STA 141a
 
 ## Consult Your Community
-[Final Deliverable](FINAL .pptx)
+[Final Deliverable](FINAL_cyc.pdf)
 
 You can use the [editor on GitHub](https://github.com/mtslee/mtslee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
