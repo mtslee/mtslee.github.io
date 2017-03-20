@@ -19,7 +19,8 @@ This was an assignment for my data science course where I used the USDA API key 
 [It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
 ** STA 141a
 
-
+[test hw2](141a/141a+hw+2.html)
+[hw2](141a/141a+hw+2/)
 
 ** Consult Your Community | UC Davis**
 I am an Engagement Manager for a non-profit consulting organization here at UC Davis. This is a copy of our final deliverable for our client Smartz Graphics. 
