@@ -12,7 +12,7 @@ I am currently a senior at the University of California, Davis with a double maj
 
 # Explore my work!
 
-[STA 141b Assign 4](141b/assignment4+Matthew+Lee/) 
+[STA 141b Assign 4](141b/assignment4+Matthew+Lee (1)/) 
 This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. 
 
 [It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
@@ -42,13 +42,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtslee/mtslee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
