@@ -1,7 +1,7 @@
 
 ## Welcome to my page! 
 
-<center>![Matthew](/headshot.jpg)</center>
+![Matthew](/headshot.jpg)
 
 
 # Hi everyone!
@@ -13,12 +13,12 @@ I am currently a senior at the University of California, Davis with a double maj
 
 
 # Explore my work!
-## STA 141b
+## STA 141b - Data & Web Technologies for Data Analysis
 [USDA Fresh Foods](141b/assignment4+Matthew+Lee (1)/) 
 This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. 
 
 [It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
-** STA 141a
+** STA 141A - Fundamentals of Statistical Data Science
 
 [test hw2](141a/141a+hw+2.html)
 [hw2](141a/141a+hw+2/)
