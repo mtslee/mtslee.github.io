@@ -1,8 +1,11 @@
 
 ## Welcome to my page! 
 
-![Matthew](/headshot.jpg) ![UC Davis](/aggies.jpg)
+<p align="center">
+ <img src="/headshot.jpg" alt="MTL/>
 
+</p>
+![Matthew](/headshot.jpg) ![UC Davis](/aggies.jpg) 
 
 # Hi everyone!
 My name is Matthew Lee and I want to thank you for taking the time to visit my data science portfolio. Please explore some of the projects I have done during my undergraduate career at the University of California, Davis. 
