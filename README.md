@@ -1,7 +1,7 @@
 
 ## Welcome to my page! 
 
-![Matthew](/headshot.jpg)
+![Matthew](/headshot.jpg) ![UC Davis](/aggies.jpg)
 
 
 # Hi everyone!
