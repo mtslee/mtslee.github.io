@@ -1,7 +1,7 @@
-title: Matthew T Lee
+
 ## Welcome to my page! 
 
-![Matthew](/headshot.jpg)
+<center>![Matthew](/headshot.jpg)</center>
 
 
 # Hi everyone!
