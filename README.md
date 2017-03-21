@@ -1,10 +1,7 @@
 
 ## Welcome to my page! 
 
-<p align="center">
- <img src="/headshot.jpg" alt="MTL/>
 
-</p>
 ![Matthew](/headshot.jpg) ![UC Davis](/aggies.jpg) 
 
 # Hi everyone!
