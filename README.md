@@ -14,7 +14,7 @@ My name is Matthew Lee and I want to thank you for taking the time to visit my d
 # About Me
 I am currently a senior at the University of California, Davis with a double major in Applied Statistics and Economics. As an avid basketball fan, I grew up fascinated by simple statistics such as Win-Loss record or Strength of Schedule. This interest led me to pursue my major where I could learn more about how people incorporate data into decision making. After graduation, I will be working in San Francisco as a Risk & Compliance Consultant. 
 
-I hope to one day build a career in Data Science and potentially work with the NBA. My specific areas of interest are Predictive Analytics and understanding how travel patterns influence energy and fatique. I am also working with a graduate student here at UC Davis where we are conducting historical firm data. We are studying Merger & Acquisitions over a 30 year time period and analyzing their effects on the market competition using the Herfindahl-Hirschman index (HHI). 
+I hope to one day build a career in Data Science and potentially work with the NBA. My specific areas of interest are Predictive Analytics and understanding how travel patterns influence energy and fatique. I am also working with a graduate student here at UC Davis where we are conducting historical firm data. We are studying Merger & Acquisitions over a 30 year time period and analyzing their effects on the market competition using the Herfindahl-Hirschman index (HHI). Once completed, I'll post the findings here.
 
 
 # Explore my work!
