@@ -19,14 +19,19 @@ I hope to one day build a career in Data Science and potentially work with the N
 
 # Explore my work!
 ## STA 141B - Data & Web Technologies for Data Analysis
+
+[It's Lit- Young People](141b/Its Lit An Extensive Study Of Young people HTML.html)
+
+Here is the code from the final project that my group and I researched. Our dataset is from a university in Slovakia from 2013 where the Statistics students surveyed friends and colleagues about their personality habits. We decided to take a spin on the project and treat it like a Consulting assignment that we would be assigned by a client. The main area of interest was spending habits and determining how companies can best spend their money to reach the desired demographic. 
+
 [USDA Fresh Foods](141b/assignment4+Matthew+Lee.html) 
 
 This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. It required the use of web scraping to find the nutritional data, and then Pandas was used to convert it all into a digestible dataframe. 
 
 [SF Data Portal](141b/assignment6+Matthew_Lee.html)
+
 I was really excited to work on this project since it was my first exposure to using SQL, which is commonly used in the work force. Also, I hope to move to San Francisco after I have saved up enough money, so it was fascinating to learn more about the city. This also features Mapping, where I plotted the location of park and noise disturbances across the city of San Francisco. 
 
-[It's Lit- Young People](141b/Its Lit An Extensive Study Of Young people HTML.html)
 
 ## STA 141A - Fundamentals of Statistical Data Science
 
