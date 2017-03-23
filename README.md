@@ -26,7 +26,7 @@ This was an assignment for my data science course where I used the USDA API key 
 [SF Data Portal](141b/assignment6+Matthew_Lee.html)
 I was really excited to work on this project since it was my first exposure to using SQL, which is commonly used in the work force. Also, I hope to move to San Francisco after I have saved up enough money, so it was fascinating to learn more about the city. This also features Mapping, where I plotted the location of park and noise disturbances across the city of San Francisco. 
 
-[It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
+[It's Lit- Young People](141b/Its Lit An Extensive Study Of Young people HTML.html)
 
 ## STA 141A - Fundamentals of Statistical Data Science
 
