@@ -28,36 +28,10 @@ This was an assignment for my data science course where I used the USDA API key 
 
 [NHANES](141a/141a+hw+2.html) 
 
-Exploratory analysis of cancer research using 'ggplot'
+This was one of the reports I conducted about cancer research. This project emphasized the use of 'ggplot2' in R, and required extensive outside research into health effects of Hemoglobin, Albumin or Iron. 
 
 
 ## Consult Your Community | UC Davis
 I am an Engagement Manager for a non-profit consulting organization here at UC Davis. This is a copy of our final deliverable for our client Smartz Graphics. 
 
 [Final Deliverable](FINAL_cyc.pdf)
-
-You can use the [editor on GitHub](https://github.com/mtslee/mtslee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
