@@ -21,7 +21,10 @@ I hope to one day build a career in Data Science and potentially work with the N
 ## STA 141B - Data & Web Technologies for Data Analysis
 [USDA Fresh Foods](141b/assignment4+Matthew+Lee.html) 
 
-This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. 
+This was an assignment for my data science course where I used the USDA API key to get the nutritional information for a list of common fruits and vegetables. It required the use of web scraping to find the nutritional data, and then Pandas was used to convert it all into a digestible dataframe. 
+
+[SF Data Portal](141b/assignment6+Matthew_Lee.html)
+I was really excited to work on this project since it was my first exposure to using SQL, which is commonly used in the work force. Also, I hope to move to San Francisco after I have saved up enough money, so it was fascinating to learn more about the city. This also features Mapping, where I plotted the location of park and noise disturbances across the city of San Francisco. 
 
 [It's Lit- Young People](https://ehkhong.github.com/io/sta-141b-proj/Calculated2.py.ipynb)
 
