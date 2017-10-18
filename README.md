@@ -14,7 +14,7 @@ My name is Matthew Lee and I want to thank you for taking the time to visit my d
 # About Me
 I graduated from the University of California, Davis with a double major in Applied Statistics and Economics. As an avid basketball fan, I grew up fascinated by simple statistics such as Win-Loss record or Strength of Schedule. This interest led me to pursue my major where I could learn more about how people incorporate data into decision making. After graduation, I will be working in San Francisco as a Risk & Compliance Consultant. 
 
-I hope to one day build a career in Data Science and potentially work with the NBA. My specific areas of interest are Predictive Analytics and understanding how travel patterns influence energy and fatique.
+I hope to one day build a career in Data Science and potentially work with the NBA. My specific areas of interest are Predictive Analytics and understanding how travel patterns influence energy and fatique. I have experience with Data Analysis particularly with R and Python, and have some exposure with SQL. 
 
 # Explore my work!
 ## STA 141B - Data & Web Technologies for Data Analysis
