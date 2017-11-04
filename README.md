@@ -34,6 +34,7 @@ I was really excited to work on this project since it was my first exposure to u
 
 ## STA 141A - Fundamentals of Statistical Data Science
 [Red Wine Quality Assessment](141final.pdf)
+
 For our final project for my statistical programming class, my team and I chose to analyze a dataset provided to us by the UC Irvine repository. This assignment was the culimination of an intensive class that improved my technical expertise in R.
 
 
