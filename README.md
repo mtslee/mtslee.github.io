@@ -33,7 +33,7 @@ I was really excited to work on this project since it was my first exposure to u
 
 
 ## STA 141A - Fundamentals of Statistical Data Science
-[Red Wine Quality Assessment] (STA 141 final.pdf)
+[Red Wine Quality Assessment](141final.pdf)
 For our final project for my statistical programming class, my team and I chose to analyze a dataset provided to us by the UC Irvine repository. This assignment was the culimination of an intensive class that improved my technical expertise in R.
 
 
@@ -43,6 +43,6 @@ This was one of the reports I conducted about cancer research. This project emph
 
 
 ## Consult Your Community | UC Davis
-I am an Engagement Manager for a non-profit consulting organization here at UC Davis. This is a copy of our final deliverable for our client Smartz Graphics. 
+I was an Engagement Manager for a non-profit consulting organization here at UC Davis. This is a copy of our final deliverable for our client Smartz Graphics. 
 
 [Final Deliverable](FINAL_cyc.pdf)
