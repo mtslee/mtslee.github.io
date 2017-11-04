@@ -43,6 +43,12 @@ For our final project for my statistical programming class, my team and I chose 
 This was one of the reports I conducted about cancer research. This project emphasized the use of 'ggplot2' in R, and required extensive outside research into health effects of Hemoglobin, Albumin or Iron. 
 
 
+## STA 137 - Applied Time Series Analysis
+[CO2 Levels - Canada](137final.pdf)
+
+Part of our final exam was to perform an in-depth analysis of this dataset provided to us. This report contains a forecast of expected pollution levels for the upcoming 12 months, as well as a 95% interval forecast. All of the analysis was performed in R. 
+
+
 ## Consult Your Community | UC Davis
 I was an Engagement Manager for a non-profit consulting organization here at UC Davis. This is a copy of our final deliverable for our client Smartz Graphics. 
 
